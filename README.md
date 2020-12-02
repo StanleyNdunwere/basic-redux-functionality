@@ -8,7 +8,7 @@ The notable functionalities include:
  3. Mapping store to reducers as well as
  5. Connecting components to the store and consequently their respective reducers.
  
- ##Additional Features
+ ## Additional Features
 Additionally other functionality and helper folder structures are indicated i.e.
 Combined Reducers, Root Reducers and Action Types 
 
