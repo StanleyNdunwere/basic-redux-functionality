@@ -1,6 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Basic Redux Functionality
+This project just simply showcases the basic features of the redux state management tool.
+The notable functionality include:
+ 1. Redux Actions
+ 2. Redux Reducers
+ 3. Redux Store
+ 3. Mapping store to reducers as well as
+ 5. Connecting components to the store and consequently their respective reducers.
+Additionally other functionality and helper folder structures are indicated i.e.
+Combined Reducers, Root Reducers and Action Types 
 
 ## Available Scripts
 
