@@ -1,11 +1,14 @@
 # Basic Redux Functionality
 This project just simply showcases the basic features of the redux state management tool.
-The notable functionality include:
+
+The notable functionalities include:
  1. Redux Actions
  2. Redux Reducers
  3. Redux Store
  3. Mapping store to reducers as well as
  5. Connecting components to the store and consequently their respective reducers.
+ 
+ ##Additional Features
 Additionally other functionality and helper folder structures are indicated i.e.
 Combined Reducers, Root Reducers and Action Types 
 
